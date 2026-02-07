@@ -1,0 +1,5 @@
+source,category,keyword,description
+forum_alpha,medical_record,john@example.com,Diagnostic report exposure
+market_beta,insurance,apollo hospital,Insurance client data exposed
+dump_gamma,biometric,john,ECG health data found
+forum_delta,appointment,9876543210,Hospital appointment metadata leak
